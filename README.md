@@ -36,7 +36,7 @@ React • Node.js • Express • MongoDB • Gemini API
 
 #### 🌐 Live Demo
 ```txt
-https://your-study-planner.vercel.app
+https://ai-study-planner-omega-five.vercel.app/
 
 <!--
 **ShikharMishra9161/ShikharMishra9161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
