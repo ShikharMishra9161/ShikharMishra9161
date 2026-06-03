@@ -2,7 +2,7 @@
 
 # Hi, I'm Shikhar Mishra 👋
 
-### Full-Stack Developer · AI Application Engineer · MERN Stack
+### Full-Stack Developer · MERN Stack
 
 *Building intelligent web products that solve real problems.*
 
@@ -68,17 +68,12 @@
 
 
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=ShikharMishra9161&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 ## 🏆 Achievements
 
-- ✅ **165+ LeetCode** problems solved
+- ✅ **180+ LeetCode** problems solved
 - 🎓 **React Certification** — Infosys Springboard
 - 🤖 **Generative AI Certification** — Coursera
 - 🛠️ 2 live deployed full-stack projects with real users
@@ -89,7 +84,7 @@
 
 <div align="center">
 
-I'm actively seeking **internships and entry-level roles** in full-stack or AI engineering.  
+I'm actively seeking **internships and entry-level roles** in full-stack.  
 If you're hiring or want to collaborate — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-mishra-480171294/)
