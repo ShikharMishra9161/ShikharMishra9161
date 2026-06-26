@@ -84,7 +84,7 @@
 
 <div align="center">
 
-I'm actively seeking **internships and entry-level roles** in full-stack.  
+I'm actively seeking **internships and roles** in full-stack.  
 If you're hiring or want to collaborate — let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-mishra-480171294/)
