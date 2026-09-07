@@ -139,7 +139,7 @@ Chrome extension focused on preserving and utilizing user context across session
 
 ## DSA / Problem Solving
 
-- 180+ problems solved on LeetCode
+- 250+ problems solved on LeetCode
 - Actively practicing: Arrays, Hashing, Two Pointers, Sliding Window, Binary Search, Linked Lists, Trees, Recursion
 
 ---
