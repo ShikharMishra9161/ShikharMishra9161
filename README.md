@@ -1,6 +1,6 @@
-<!-- ============ HEADER ============ -->
+<!-- ============ HEADER (self-hosted, never breaks) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:6366f1&height=200&section=header&text=Shikhar%20Mishra&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+  <img src="./assets/header.svg" width="100%" alt="Shikhar Mishra — Full-Stack & Backend Engineer"/>
 </p>
 
 <p align="center">
@@ -15,10 +15,6 @@
   <a href="https://leetcode.com/u/shikharmishra7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="mailto:shikharmishra9161@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://shikharmishra9161.github.io/assets/Shikhar_Mishra_Resume.pdf"><img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShikharMishra9161&color=6366f1&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
 ---
@@ -58,21 +54,6 @@ const shikhar = {
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Pulse](https://github.com/ShikharMishra9161/pulse-analytics)
-**Multi-tenant product analytics platform** — a lightweight Mixpanel/PostHog alternative
-
-- Public REST API for custom events → real-time & historical dashboards
-- PostgreSQL schema with composite + **GIN JSONB indexes**, partition-ready event table
-- API-key auth, per-key rate limits, Zod validation, **4-role RBAC**
-- **64 tests** in Vitest against a real Postgres DB
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma,vercel" height="32"/>
-
-[🔗 Live](https://pulse-analytics-self.vercel.app) · [💻 Code](https://github.com/ShikharMishra9161/pulse-analytics)
-
-</td>
-<td width="50%" valign="top">
-
 ### ⚙️ [TaskFlow](https://github.com/ShikharMishra9161/taskflow)
 **Distributed job queue & background workers**
 
@@ -85,6 +66,21 @@ const shikhar = {
 <img src="https://skillicons.dev/icons?i=nodejs,ts,express,redis,mongodb,docker,githubactions" height="32"/>
 
 [💻 Code](https://github.com/ShikharMishra9161/taskflow)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Pulse](https://github.com/ShikharMishra9161/pulse-analytics)
+**Multi-tenant product analytics platform** — a lightweight Mixpanel/PostHog alternative
+
+- Public REST API for custom events → real-time & historical dashboards
+- PostgreSQL schema with composite + **GIN JSONB indexes**, partition-ready event table
+- API-key auth, per-key rate limits, Zod validation, **4-role RBAC**
+- **64 tests** in Vitest against a real Postgres DB
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma,vercel" height="32"/>
+
+[🔗 Live](https://pulse-analytics-self.vercel.app) · [💻 Code](https://github.com/ShikharMishra9161/pulse-analytics)
 
 </td>
 </tr>
@@ -171,10 +167,6 @@ const shikhar = {
   <img src="https://leetcard.jacoblin.cool/shikharmishra7?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShikharMishra9161&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-</p>
-
 ---
 
 ## 🌱 Currently Exploring
@@ -193,5 +185,5 @@ const shikhar = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt="footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="footer"/>
 </p>
